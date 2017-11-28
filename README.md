@@ -4,3 +4,5 @@
 
 ## how to use
 > this is how to use
+> this is a code example
+
